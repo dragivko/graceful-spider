@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: hero_section
-    section_id: hero
+    section_id: heo
     title: >-
       This is an Award Winning Agency Based in San Francisco and Focusing on
       Digital, Identity, and Print Design.
